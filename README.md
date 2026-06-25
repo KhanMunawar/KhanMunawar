@@ -44,6 +44,17 @@ I am a passionate Cybersecurity and Vulnerability Assessment and Penetration Tes
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhanMunawar&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanMunawar&theme=tokyonight" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanMunawar&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
 ### 📬 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/khan-munawar](https://linkedin.com/in/khan-munawar)
