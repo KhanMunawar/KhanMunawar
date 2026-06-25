@@ -30,6 +30,34 @@ I am a passionate Cybersecurity and Vulnerability Assessment and Penetration Tes
 
 ---
 
+## 🛠️ Tech Stack & Tooling
+
+### 🛡️ Penetration Testing & Networks
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-002F6C?style=for-the-badge&logo=metasploit&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-E44D26?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 💻 Automation & Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🎛️ Hardware & Infrastructure Auditing
+* **IIO / IoT Gateways:** Security auditing & firmware analysis (e.g., MEERKAT Edge).
+* **Enterprise Networking:** Configuration & vulnerability assessments for **MikroTik, Cisco, and SonicWall** hardware.
+* **Hardware Tools:** WiFi Pineapple, physical device prototyping, and hardware-level attack vectors.
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhanMunawar&show_icons=true&theme=tokyonight&count_private=true" alt="Munawar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanMunawar&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 ### 📬 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/khan-munawar](https://linkedin.com/in/khan-munawar)
