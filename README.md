@@ -39,23 +39,9 @@ I am a passionate Cybersecurity and Vulnerability Assessment and Penetration Tes
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 💻 Automation & Languages
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🎛️ Hardware & Infrastructure Auditing
-* **IIO / IoT Gateways:** Security auditing & firmware analysis (e.g., MEERKAT Edge).
-* **Enterprise Networking:** Configuration & vulnerability assessments for **MikroTik, Cisco, and SonicWall** hardware.
-* **Hardware Tools:** WiFi Pineapple, physical device prototyping, and hardware-level attack vectors.
-
----
-
-## 📊 GitHub Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhanMunawar&show_icons=true&theme=tokyonight&count_private=true" alt="Munawar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanMunawar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 ### 📬 Connect With Me
